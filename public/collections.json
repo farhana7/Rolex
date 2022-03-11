@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "DATEJUST",
+    "description": "The classic watch of reference",
+    "price": "$3,550.00",
+    "img": "https://i.ibb.co/3Tr62Pm/family-page-datejust-watch-on-time-m126333-0010-1601ac-003-portrait.webp"
+  },
+  {
+    "id": 2,
+    "name": "EXPLORER",
+    "description": "The call of the picks",
+    "price": "$3,550.00",
+    "img": "https://i.ibb.co/jJPDJHF/2021-Rolex-Explorer-1-36mm-124270-124273-hands-on-1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "OYESTER PERPETUAL",
+    "description": "The essence of the Oyester",
+    "price": "$3,550.00",
+    "img": "https://i.ibb.co/DQsd5WP/watches-0007-m124300-0001-perpetual-41-portrait.webp"
+  },
+  {
+    "id": 4,
+    "name": "SKY DWELLER",
+    "description": "Keeping track of time accross the world",
+    "price": "$3,550.00",
+    "img": "https://i.ibb.co/XFFfF6L/Rolex-Sky-Dweller-Oysterflex-Bracelet-Everose-Gold-Chocolate-Dial-326235-1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "GMT MASTER II",
+    "description": "The cosmopolitan watch",
+    "price": "$3,550.00",
+    "img": "https://i.ibb.co/GWgXR0m/selection-025-500x500-500x500.png"
+  },
+  {
+    "id": 6,
+    "name": "DAY DATE",
+    "description": "The ultimate watch of prestige",
+    "price": "$3,550.00",
+    "img": "https://i.ibb.co/3dK3Yd8/day-date-40-m228239-0033-share.webp"
+  },
+  {
+    "id": 7,
+    "name": "COSMOGRAPH DAYTONA",
+    "description": "Born to race",
+    "price": "$3,550.00",
+    "img": "https://i.ibb.co/qMq1R5m/share-a2-v5-cosmograph-daytona.jpg"
+  },
+  {
+    "id": 8,
+    "name": "YACHT-MASTER",
+    "description": "The watch of the open seas",
+    "price": "$3,550.00",
+    "img": "https://i.ibb.co/R222Cx2/rolex.jpg"
+  },
+  {
+    "id": 9,
+    "name": "LADY-DAYJUST",
+    "description": "graceful elegance",
+    "price": "$3,550.00",
+    "img": "https://i.ibb.co/3CWt7Pn/new-lady-datejust-watch-on-time-portrait.webp"
+  },
+  {
+    "id": 10,
+    "name": "SUBMARINER",
+    "description": "The reference among divers' watches",
+    "price": "$3,550.00",
+    "img": "https://i.ibb.co/bQZBH8X/professional-watches-submariner-all-models-share.webp"
+  }
+]
