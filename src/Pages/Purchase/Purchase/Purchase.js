@@ -35,7 +35,7 @@ const Purchase = () => {
   };
 
   useEffect(() => {
-    fetch(`http://localhost:5000/products/${collectionId}`)
+    fetch()
       .then((res) => res.json())
       .then((data) => setCollection(data));
   }, []);

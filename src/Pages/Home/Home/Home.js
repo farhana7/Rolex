@@ -1,6 +1,7 @@
 import { Typography, Container, Grid, Box } from "@mui/material";
 import { textAlign } from "@mui/system";
 import React, { useEffect, useState } from "react";
+import Review from "../../Dashboard/Review/Review";
 import Footer from "../../Shared/Footer/Footer";
 import Navigation from "../../Shared/Navigation/Navigation";
 import Banner from "../Banner/Banner";
@@ -92,6 +93,7 @@ const Home = () => {
           </Grid>
         </Container>
       </Box>
+      <Review></Review>
 
       <Footer></Footer>
     </div>

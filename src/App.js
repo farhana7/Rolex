@@ -7,6 +7,12 @@ import Login from "./Pages/Login/Login/Login";
 import Register from "./Pages/Login/Register/Register";
 import AuthProvider from "./contexts/AuthProvider/AuthProvider";
 import PrivateRoute from "./Pages/Login/PrivateRoute/PrivateRoute";
+import AddProduct from "./Pages/AddProduct/AddProduct";
+import ManageProducts from "./Pages/ManageProducts/ManageProducts";
+import Dashboard from "./Pages/Dashboard/Dashboard/Dashboard";
+// import MyOrders from "./Pages/Dashboard/MyOrder/MyOrder";
+import Review from "./Pages/Dashboard/Review/Review";
+import Pay from "./Pages/Dashboard/Pay/Pay";
 
 function App() {
   return (
@@ -32,6 +38,25 @@ function App() {
 
             <PrivateRoute path="/purchase/:collectionId">
               <Purchase></Purchase>
+            </PrivateRoute>
+            <PrivateRoute path="/dashboard">
+              <Dashboard></Dashboard>
+            </PrivateRoute>
+            {/* <PrivateRoute path="/myOrders">
+              <MyOrders></MyOrders>
+            </PrivateRoute> */}
+            <PrivateRoute path="/review">
+              <Review></Review>
+            </PrivateRoute>
+            <PrivateRoute path="/pay">
+              <Pay></Pay>
+            </PrivateRoute>
+
+            <PrivateRoute path="/addAProduct">
+              <AddProduct />
+            </PrivateRoute>
+            <PrivateRoute path="/manageProducts">
+              <ManageProducts></ManageProducts>
             </PrivateRoute>
           </Switch>
         </Router>
